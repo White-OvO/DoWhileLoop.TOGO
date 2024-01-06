@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SumOfNum {
 	public static void main(String[] args) { 
 		// declaration 
-		int Counter; 
+		//int Counter; 
 		
 		// loop
 		do { 
@@ -19,7 +19,7 @@ public class SumOfNum {
 			//sum += list[i];
 			      sum += list[(int)i];
 		} 
-			
+			System.out.println("sum = " + sum + "\n");
 			
 			
 		}
