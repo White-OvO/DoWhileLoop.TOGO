@@ -23,11 +23,36 @@ public class SumOfNum {
 			 
 			 System.out.println("Enter 1 to continue or any value to exit........");
 	            Counter = in.nextInt();
-		}
+		
 		//while (true);   // this is need to close the do while looop 
-			while (Counter == 1); // counter to stop the program
-			System.out.println("Thank you have a wounderful day");
+	 } 
+	while (Counter == 1);
+     System.out.println("Thank you have a wonderful day");
+
+	Counter = 0;
+	
+	
+	
+	do { 
+		double product = 1; 
+		double list2[] = new double[3];
+         Scanner in = new Scanner(System.in);
+            System.out.println("Enter  3 numbers to be multiplied: ");
+		for (double i = 0; i < 3; i++) {   
+	
+		      list2[(int)i] = in.nextDouble();
+	
+		      product *= list2[(int)i];
+	} 
+		System.out.println("product = " + product + "\n");
+		 
+		 System.out.println("Enter 1 to continue or any value to exit........");
+            Counter = in.nextInt();
 	}
+
+		while (Counter == 1); // counter to stop the program
+		System.out.println("Thank you have a wonderful day");
+}
 	
 
 }
