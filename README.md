@@ -6,3 +6,9 @@
 <h1> Commit 2 </h1>
 
 ![Screen Shot 2024-01-05 at 10 21 39 PM](https://github.com/White-OvO/DoWhileLoop.TOGO/assets/120700219/43d6b638-48aa-46cf-8ea6-8061b100d2ec)
+
+
+<h1> Commit 3 </h1>
+
+![Screen Shot 2024-01-05 at 10 27 15 PM](https://github.com/White-OvO/DoWhileLoop.TOGO/assets/120700219/22b7f09c-a8bf-423d-ae19-1c4e5d18f0da)
+
